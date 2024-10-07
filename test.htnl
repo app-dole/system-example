@@ -3,7 +3,7 @@
 <body>
 
 <?php
-echo file_get_contents("test.txt");
+echo file_get_contents("https://script.google.com/macros/s/AKfycbxK7K929NYHT2iQ1b5qBQDT_oITNS8pboqMcDco0Imi1DsiNMxnRKScpsiebmDnc0eh/exec");
 ?>
 
 </body>
